@@ -14,3 +14,8 @@ This project analyzes Zomato restaurant data using Excel. It includes:
 - **Cost Trends:** Most restaurants have an average cost of **up to $50**.
 - **Service Trends:** **12% offer table booking, while 26% provide online delivery**.
 - **Rating Distribution:** Most restaurants received ratings between **3 – 4**.
+
+## Dataset
+The dataset used in this project is available at the following link:  
+[Zomato Restaurant Dataset](https://github.com/tanvirs2208/zomato_restaurant_analysis/blob/main/Zomato_original_dataset.xlsx)
+
